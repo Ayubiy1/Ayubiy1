@@ -9,6 +9,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ayubiy1&theme=dark)](https://github.com/Ayubiy1/)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayubiy1&text_color=ffffff&text_bold=true&title_color=e3289c&bg_color=2b213a&card_width=495px)](https://github.com/Ayubiy1/)</div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuhriddinzayniddinov&text_color=ffffff&text_bold=true&title_color=e3289c&bg_color=2b213a&card_width=900%)](https://github.com/zuhriddinzayniddinov/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuhriddinzayniddinov&text_color=ffffff&text_bold=true&title_color=e3289c&bg_color=2b213a&card_width=870%)](https://github.com/zuhriddinzayniddinov/)
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ayubiy1&show_icons=true&theme=synthwave" alt="Ayubbek :: Profile Stats" /></p>
 
 <!--------------------------------  ///
